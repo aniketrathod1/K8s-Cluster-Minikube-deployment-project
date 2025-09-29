@@ -2,3 +2,7 @@ pods.png
 services.png 
 scaling.png
 logs.png
+kubectl get pods
+kubectl get services
+Scaling command results
+Logs output
